@@ -11,3 +11,6 @@ $generator->generate(
         'outputDir' => './output'
     ))
 );
+
+//php proxy.php
+//http://www.webservicex.net/CurrencyConvertor.asmx?WSDL
